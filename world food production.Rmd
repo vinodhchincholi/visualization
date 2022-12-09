@@ -9,7 +9,7 @@ output:
   pdf_document:
     number_section: true
 keywords: food production, choropleth map
-abstract: In this project I attempt to understand the order of magnitude in which we grow food, how it has changed over the years as well as its variation with respect to geographical location over the world.
+abstract: In this project I attempt to understand the order of magnitude in which we grow food, how it has changed over the years as well as its variation with respect to geographical location over the world. The Dashboard for this project can be found [here](https://vinodh-chincholi.shinyapps.io/VisuDashboard/), while the YouTube video briefly explaining the Dashboard can be found [here](https://youtu.be/vt-FiB2DTRY).
 ---
 
 ```{r setup, include=FALSE}
